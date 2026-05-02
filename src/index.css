@@ -1,0 +1,12 @@
+:root {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: linear-gradient(160deg, #1e1b4b, #312e81);
+  color: #e0e7ff;
+  min-height: 100vh;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
