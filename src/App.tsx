@@ -58,7 +58,7 @@ export default function App() {
   })()
 
   return (
-    <div style={{ maxWidth: 560, margin: '0 auto', padding: '1.5rem' }}>
+    <div style={{ width: '100%', maxWidth: 560, margin: '0 auto', padding: 'clamp(0.75rem, 3vw, 1.5rem)' }}>
       <div
         style={{
           background: '#4338ca',
@@ -97,13 +97,15 @@ export default function App() {
           type="button"
           onClick={save}
           style={{
-            padding: '10px 18px',
+            padding: '12px 20px',
+            minHeight: 44,
             borderRadius: 8,
             border: 'none',
             background: '#818cf8',
             color: '#1e1b4b',
             fontWeight: 700,
             cursor: 'pointer',
+            fontSize: 16,
           }}
         >
           Save check-in

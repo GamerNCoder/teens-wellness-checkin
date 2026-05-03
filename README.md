@@ -14,6 +14,8 @@
 npm install && npm run dev
 ```
 
+**PWA-ready** (`public/manifest.webmanifest`), touch-friendly controls. See **`MOBILE.md`** for Expo + AsyncStorage.
+
 ## v2 ideas
 
 - Export encrypted backup file.

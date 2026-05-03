@@ -1,0 +1,9 @@
+{
+  "name": "Teen Wellness Check-in",
+  "short_name": "Wellness",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#312e81",
+  "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
