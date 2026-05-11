@@ -1,0 +1,23 @@
+{
+  "name": "Teen Wellness Check-in",
+  "short_name": "Wellness",
+  "description": "Mood check-in journal — installable PWA for quick daily entries.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#1e1b4b",
+  "theme_color": "#312e81",
+  "categories": ["health", "lifestyle"],
+  "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }],
+  "shortcuts": [
+    {
+      "name": "Check in",
+      "short_name": "Check-in",
+      "url": "/",
+      "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
