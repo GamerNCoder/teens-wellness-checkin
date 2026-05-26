@@ -2,6 +2,12 @@
 
 **Non-clinical** mood + journal in the browser (`localStorage`). Designed for **safety-first** messaging.
 
+## Status (May 2026)
+
+- **Local-first**: no server by default (privacy-friendly demo).
+- **PWA-ready**: touch-friendly UI + manifest.
+- **Clear boundary**: not therapy / not diagnosis (see below).
+
 ## Boundaries (important for essays & interviews)
 
 - Not therapy, not diagnosis, not risk assessment.
